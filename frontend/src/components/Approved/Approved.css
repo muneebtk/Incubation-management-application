@@ -1,0 +1,10 @@
+.button6{
+    width: 85%;
+    background-color: green;
+    color: white;
+}
+.button6:hover{
+    background-color: white;
+    color: black;
+    
+}

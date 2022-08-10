@@ -1,0 +1,27 @@
+.main{
+    height: 60px;
+    background-color: rgb(20, 95, 170);
+    display: flex;
+    justify-content:space-between;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+
+}
+.button{
+    color: rgb(10, 249, 169);
+    border: 3px;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+.btn1{
+    margin-left: 4px;
+    background-color:rgb(156, 213, 232);
+    border-radius: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 39px;
+}
